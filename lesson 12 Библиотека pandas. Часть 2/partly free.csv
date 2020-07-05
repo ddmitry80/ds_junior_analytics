@@ -1,0 +1,61 @@
+cnt_code,country,year,va,ps,ge,rq,rl,cc,fh,cc_round,fh_status
+GNB,Guinea-Bissau,2016,-0.7,-0.5,-1.64,-1.24,-1.49,-1.56,5.0,-1.6,partly free
+VEN,"Venezuela, RB",2016,-1.13,-1.03,-1.29,-2.0,-2.18,-1.39,5.0,-1.4,partly free
+HTI,Haiti,2016,-0.73,-0.67,-2.06,-1.24,-1.0,-1.35,5.0,-1.4,partly free
+ZWE,Zimbabwe,2016,-1.11,-0.61,-1.16,-1.72,-1.32,-1.28,5.0,-1.3,partly free
+KGZ,Kyrgyz Republic,2016,-0.49,-0.66,-0.9,-0.35,-1.1,-1.08,5.0,-1.1,partly free
+NGA,Nigeria,2016,-0.3,-1.85,-1.09,-0.92,-1.05,-1.04,4.5,-1.0,partly free
+LBN,Lebanon,2016,-0.52,-1.56,-0.53,-0.34,-0.86,-0.97,4.5,-1.0,partly free
+MDA,Moldova,2016,-0.03,-0.28,-0.62,-0.12,-0.54,-0.96,3.0,-1.0,partly free
+GIN,Guinea,2016,-0.73,-0.41,-1.01,-0.87,-1.29,-0.94,5.0,-0.9,partly free
+PNG,Papua New Guinea,2016,0.19,-0.5,-0.73,-0.56,-0.75,-0.92,3.5,-0.9,partly free
+MDG,Madagascar,2016,-0.27,-0.4,-1.17,-0.69,-0.74,-0.9,3.5,-0.9,partly free
+KEN,Kenya,2016,-0.15,-1.33,-0.31,-0.3,-0.53,-0.9,4.0,-0.9,partly free
+NIC,Nicaragua,2016,-0.63,-0.17,-0.7,-0.51,-0.6,-0.89,3.5,-0.9,partly free
+MOZ,Mozambique,2016,-0.39,-1.05,-0.85,-0.7,-1.02,-0.87,4.0,-0.9,partly free
+PAK,Pakistan,2016,-0.69,-2.47,-0.64,-0.64,-0.83,-0.86,4.5,-0.9,partly free
+UKR,Ukraine,2016,0.02,-1.89,-0.58,-0.43,-0.77,-0.84,3.0,-0.8,partly free
+SLE,Sierra Leone,2016,-0.13,-0.16,-1.2,-0.93,-0.79,-0.82,3.0,-0.8,partly free
+BGD,Bangladesh,2016,-0.56,-1.24,-0.69,-0.8,-0.59,-0.8,4.0,-0.8,partly free
+DOM,Dominican Republic,2016,0.19,0.29,-0.25,-0.07,-0.29,-0.78,3.0,-0.8,partly free
+MEX,Mexico,2016,-0.09,-0.77,0.14,0.29,-0.5,-0.77,3.0,-0.8,partly free
+NPL,Nepal,2016,-0.23,-0.79,-0.81,-0.76,-0.84,-0.76,3.5,-0.8,partly free
+PRY,Paraguay,2016,-0.04,0.2,-0.77,-0.3,-0.67,-0.75,3.0,-0.8,partly free
+MWI,Malawi,2016,0.04,-0.06,-0.73,-0.84,-0.37,-0.75,3.0,-0.8,partly free
+GTM,Guatemala,2016,-0.31,-0.54,-0.6,-0.2,-1.04,-0.74,4.0,-0.7,partly free
+LBR,Liberia,2016,-0.1,-0.55,-1.32,-0.95,-0.97,-0.71,3.5,-0.7,partly free
+BOL,Bolivia,2016,0.01,-0.21,-0.57,-0.92,-1.2,-0.71,3.0,-0.7,partly free
+HND,Honduras,2016,-0.43,-0.36,-0.73,-0.51,-1.11,-0.69,4.0,-0.7,partly free
+TGO,Togo,2016,-0.51,-0.2,-1.08,-0.79,-0.68,-0.68,4.0,-0.7,partly free
+MDV,Maldives,2016,-0.74,0.41,-0.33,-0.46,-0.41,-0.67,4.5,-0.7,partly free
+ECU,Ecuador,2016,-0.25,-0.1,-0.43,-1.02,-0.69,-0.67,3.0,-0.7,partly free
+MLI,Mali,2016,-0.18,-1.55,-0.99,-0.59,-0.78,-0.67,4.5,-0.7,partly free
+NER,Niger,2016,-0.34,-1.08,-0.59,-0.67,-0.64,-0.64,3.5,-0.6,partly free
+COM,Comoros,2016,-0.18,-0.02,-1.54,-1.05,-1.13,-0.64,3.5,-0.6,partly free
+ARM,Armenia,2016,-0.62,-0.6,-0.15,0.25,-0.11,-0.57,4.5,-0.6,partly free
+CIV,Côte d'Ivoire,2016,-0.28,-0.9,-0.67,-0.36,-0.67,-0.54,4.0,-0.5,partly free
+PHL,Philippines,2016,0.14,-1.3,-0.01,0.0,-0.4,-0.53,3.0,-0.5,partly free
+TZA,Tanzania,2016,-0.18,-0.41,-0.55,-0.44,-0.39,-0.51,3.5,-0.5,partly free
+TMP,Timor-Leste,2016,0.24,-0.08,-1.03,-0.98,-1.2,-0.51,3.0,-0.5,partly free
+BIH,Bosnia and Herzegovina,2016,-0.16,-0.38,-0.43,-0.17,-0.29,-0.47,3.5,-0.5,partly free
+KSV,Kosovo,2016,-0.16,-0.2,-0.44,-0.19,-0.38,-0.42,3.5,-0.4,partly free
+ZMB,Zambia,2016,-0.3,0.18,-0.66,-0.48,-0.3,-0.4,3.5,-0.4,partly free
+ALB,Albania,2016,0.16,0.26,0.0,0.19,-0.35,-0.4,3.0,-0.4,partly free
+IDN,Indonesia,2016,0.14,-0.38,0.01,-0.12,-0.36,-0.39,3.0,-0.4,partly free
+COL,Colombia,2016,0.1,-0.96,0.02,0.4,-0.32,-0.34,3.5,-0.3,partly free
+SLB,Solomon Islands,2016,0.49,0.51,-0.99,-0.96,-0.34,-0.34,3.0,-0.3,partly free
+MKD,"Macedonia, FYR",2016,-0.23,-0.38,0.09,0.44,-0.31,-0.31,3.5,-0.3,partly free
+LKA,Sri Lanka,2016,-0.11,0.07,-0.21,-0.1,-0.01,-0.28,4.0,-0.3,partly free
+KWT,Kuwait,2016,-0.69,-0.15,-0.18,-0.07,0.03,-0.2,5.0,-0.2,partly free
+TUR,Turkey,2016,-0.63,-2.0,0.05,0.2,-0.16,-0.2,3.5,-0.2,partly free
+MAR,Morocco,2016,-0.65,-0.29,-0.1,-0.23,-0.14,-0.15,4.5,-0.2,partly free
+BFA,Burkina Faso,2016,0.04,-0.95,-0.55,-0.4,-0.45,-0.13,3.5,-0.1,partly free
+MNE,Montenegro,2016,0.08,0.16,0.1,0.22,-0.04,-0.1,3.0,-0.1,partly free
+LSO,Lesotho,2016,0.03,-0.25,-0.8,-0.39,-0.18,-0.02,3.0,-0.0,partly free
+MYS,Malaysia,2016,-0.47,0.1,0.88,0.71,0.54,0.11,4.0,0.1,partly free
+FJI,Fiji,2016,-0.03,0.83,-0.26,-0.38,-0.29,0.13,3.0,0.1,partly free
+GEO,Georgia,2016,0.22,-0.29,0.51,1.01,0.37,0.67,3.0,0.7,partly free
+SYC,Seychelles,2016,0.16,0.72,0.36,-0.26,0.13,0.79,3.0,0.8,partly free
+BTN,Bhutan,2016,-0.05,0.99,0.49,-0.67,0.47,1.14,3.5,1.1,partly free
+HKG,"Hong Kong SAR, China",2016,0.27,0.84,1.86,2.15,1.7,1.58,3.5,1.6,partly free
+SGP,Singapore,2016,-0.28,1.53,2.21,2.18,1.83,2.07,4.0,2.1,partly free
